@@ -28,27 +28,27 @@ svg {
 }
 
 .text-copy:nth-child(1){
-  stroke: #F2ECBE;
+  stroke: #FDB731;
   animation-delay: -1;
 }
 
 .text-copy:nth-child(2){
-  stroke: #9A3B3B;
+  stroke: #FDB731;
   animation-delay: -2s;
 }
 
 .text-copy:nth-child(3){
-  stroke: #BD0034;
+  stroke: #C08261;
   animation-delay: -3s;
 }
 
 .text-copy:nth-child(4){
-  stroke: #BD0034;
+  stroke: #C08261;
   animation-delay: -4s;
 }
 
 .text-copy:nth-child(5){
-  stroke: #FDB731;
+  stroke: #9A3B3B;
   animation-delay: -5s;
 }
 
