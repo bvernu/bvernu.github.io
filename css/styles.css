@@ -12,7 +12,7 @@ body{
 
 svg {
     display: block;
-    font: 10.5em 'Montserrat';
+    font: 5em 'Montserrat';
     width: 960px;
     height: 300px;
     margin: 0 auto;
@@ -60,7 +60,7 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Montserrat', 'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -78,15 +78,17 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family: 'Montserrat', 'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
     font-size: 1.5em;
+    font-family: 'Montserrat', 'Helvetica', 'Arial', 'Sans-Serif';
     line-height: 1.4em;
     color: #C08261;
 }
 footer {
     border-top: 1px solid #F2ECBE;
+    font-family: 'Montserrat', 'Helvetica', 'Arial', 'Sans-Serif';
     font-size: .8em;
 }
 
