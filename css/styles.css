@@ -6,7 +6,7 @@ html, body{
 }
 
 body{
-  background: rgba(249, 102, 32, 0.5);
+  background: #E2C799;
   font-family: Arial;
 }
 
@@ -22,7 +22,7 @@ svg {
     fill: none;
     stroke: white;
     stroke-dasharray: 6% 29%;
-    stroke-width: 5px;
+    stroke-width: 3px;
     stroke-dashoffset: 0%;
     animation: stroke-offset 5.5s infinite linear;
 }
@@ -56,8 +56,8 @@ svg {
   100% {stroke-dashoffset: -35%;}
 }
 body {
-    margin: 60px auto;
-    width: 70%;
+    margin: 50px auto;
+    width: 80%;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -71,7 +71,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #999;
+    color: #9A3B3B;
 }
 a:hover {
     text-decoration: underline;
@@ -83,10 +83,10 @@ h1 {
 p {
     font-size: 1.5em;
     line-height: 1.4em;
-    color: #333;
+    color: #C08261;
 }
 footer {
-    border-top: 1px solid #d5d5d5;
+    border-top: 1px solid #F2ECBE;
     font-size: .8em;
 }
 
