@@ -26,7 +26,7 @@ svg {
     stroke-dashoffset: 0%;
     animation: stroke-offset 5.5s infinite linear;
 
-    font-size: 15px;
+    font-size: 5px;
     letter-spacing: -1px;
 }
 
