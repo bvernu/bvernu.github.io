@@ -13,8 +13,8 @@ body{
 svg {
     display: block;
     font: 10.5em 'Montserrat';
-    width: 100%;
-    height: auto;
+    width: 960px;
+    height: 300px;
     margin: 0 auto;
 }
 
@@ -22,7 +22,7 @@ svg {
     fill: none;
     stroke: white;
     stroke-dasharray: 6% 29%;
-    stroke-width: 3px;
+    stroke-width: 5px;
     stroke-dashoffset: 0%;
     animation: stroke-offset 5.5s infinite linear;
 }
@@ -56,8 +56,8 @@ svg {
   100% {stroke-dashoffset: -35%;}
 }
 body {
-    margin: 50px auto;
-    width: 80%;
+    margin: 60px auto;
+    width: 70%;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
