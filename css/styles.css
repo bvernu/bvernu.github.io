@@ -12,7 +12,7 @@ body{
 
 svg {
     display: block;
-    font: 10em 'Montserrat';
+    font: 8em 'Montserrat';
     width: 960px;
     height: 300px;
     margin: 0 auto;
@@ -82,7 +82,7 @@ h1 {
 }
 p {
     font-size: 1.5em;
-    font-family: 'Helvetica', 'Arial', 'Sans-Serif';
+    font-family: 'Arial', 'Sans-Serif';
     line-height: 1.4em;
     color: #C08261;
 }
