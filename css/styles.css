@@ -33,7 +33,7 @@ svg {
 }
 
 .text-copy:nth-child(2){
-  stroke: #F2ECBE;
+  stroke: #C08261;
   animation-delay: -2s;
 }
 
@@ -43,7 +43,7 @@ svg {
 }
 
 .text-copy:nth-child(4){
-  stroke: #C08261;
+  stroke: #CF2ECBE;
   animation-delay: -4s;
 }
 
