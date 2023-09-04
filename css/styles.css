@@ -6,7 +6,7 @@ html, body{
 }
 
 body{
-  background: rgba(226, 199, 153, 0.5);
+  background: rgba(226, 199, 153, 0.8);
   font-family: 'Helvetica', 'Arial';
 }
 
@@ -81,6 +81,11 @@ h1 {
     font-size: 2em;
     color: #9A3B3B;
     font-family: 'Montserrat', 'Helvetica', 'Arial', 'Sans-Serif';
+}
+h2 {
+    font-size: 1.5em;
+    color: #B65420;
+    font-family: 'Montserrat';
 }
 p {
     font-size: 1em;
