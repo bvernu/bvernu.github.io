@@ -70,6 +70,13 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
+b ul {
+    font-size: 0.6em;
+    font-weight: normal;
+    font-family: 'Helvetica', 'Arial', 'Sans-Serif';
+    line-height: 0.9em;
+    color: #C08261;
+}
 a {
     text-decoration: none;
     color: #9A3B3B;
