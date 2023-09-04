@@ -12,7 +12,7 @@ body{
 
 svg {
     display: block;
-    font: 8em 'Montserrat';
+    font: 6.5em 'Montserrat';
     width: 960px;
     height: 300px;
     margin: 0 auto;
@@ -43,7 +43,7 @@ svg {
 }
 
 .text-copy:nth-child(4){
-  stroke: #CF2ECBE;
+  stroke: #F2ECBE;
   animation-delay: -4s;
 }
 
