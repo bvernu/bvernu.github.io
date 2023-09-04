@@ -6,7 +6,7 @@ html, body{
 }
 
 body{
-  background: #E2C799;
+  background: rgba(226, 199, 153, 0.5);
   font-family: 'Helvetica', 'Arial';
 }
 
@@ -43,7 +43,7 @@ svg {
 }
 
 .text-copy:nth-child(4){
-  stroke: #F2ECBE;
+  stroke: #E2C799;
   animation-delay: -4s;
 }
 
@@ -79,12 +79,12 @@ a:hover {
 h1 {
     font-size: 2em;
     color: #9A3B3B;
-    font-family: 'Helvetica', 'Arial', 'Sans-Serif';
+    font-family: 'Montserrat', 'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
     font-size: 1em;
     font-weight: normal;
-    font-family: 'Helvetica', 'Arial', 'Sans-Serif';
+    font-family: 'Montserrat, 'Helvetica', 'Arial', 'Sans-Serif';
     line-height: 0.9em;
     color: #C08261;
 }
