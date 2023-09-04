@@ -2,7 +2,7 @@
 
 html, body{
   height: 100%;
-  <!--font-weight: 800;-->
+  font-weight: 800;
 }
 
 body{
@@ -63,7 +63,7 @@ nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
-    <!--font-weight: bold;-->
+    font-weight: bold;
 }
 nav ul li, footer ul li {
     display: inline;
@@ -83,7 +83,8 @@ h1 {
 }
 p {
     font-size: 1em;
-    font-family: 'Arial', 'Sans-Serif';
+    font-weight: normal;
+    font-family: 'Helvetica', 'Arial', 'Sans-Serif';
     line-height: 0.9em;
     color: #C08261;
 }
