@@ -60,7 +60,7 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    font-family: 'Trebuchet', 'Helvetica', 'Arial', 'Sans-Serif';
+    font-family: 'Georgia', 'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -73,7 +73,7 @@ nav ul li, footer ul li {
 b ul {
     font-size: 1em;
     font-weight: normal;
-    font-family: 'Trebuchet', 'Helvetica', 'Arial', 'Sans-Serif';
+    font-family: 'Georgia', 'Helvetica', 'Arial', 'Sans-Serif';
     color: #C08261;
 }
 a {
@@ -85,7 +85,7 @@ a:hover {
 }
 h1 {
     font-size: 2em;
-    color: #B65420;
+    color: #9A3B3B;
     font-family: 'Montserrat', 'Helvetica', 'Arial', 'Sans-Serif';
 }
 h2 {
@@ -96,12 +96,12 @@ h2 {
 p {
     font-size: 1em;
     font-weight: normal;
-    font-family: 'Trebuchet', 'Helvetica', 'Arial', 'Sans-Serif';
+    font-family: 'Gerogia', 'Helvetica', 'Arial', 'Sans-Serif';
     color: #C08261;
 }
 footer {
     border-top: 1px solid #F2ECBE;
-    font-family: 'Trebuchet', 'Montserrat', 'Helvetica', 'Arial', 'Sans-Serif';
+    font-family: 'Georgia', 'Montserrat', 'Helvetica', 'Arial', 'Sans-Serif';
     font-size: .8em;
 }
 
