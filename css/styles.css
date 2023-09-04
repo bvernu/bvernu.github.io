@@ -74,7 +74,6 @@ b ul {
     font-size: 1em;
     font-weight: normal;
     font-family: 'Trebuchet', 'Helvetica', 'Arial', 'Sans-Serif';
-    line-height: 1.2em;
     color: #C08261;
 }
 a {
@@ -86,11 +85,11 @@ a:hover {
 }
 h1 {
     font-size: 2em;
-    color: #9A3B3B;
+    color: #B65420;
     font-family: 'Montserrat', 'Helvetica', 'Arial', 'Sans-Serif';
 }
 h2 {
-    font-size: 1.5em;
+    font-size: 1.2em;
     color: #B65420;
     font-family: 'Consolas', 'Courier', 'Montserrat';
 }
@@ -98,7 +97,6 @@ p {
     font-size: 1em;
     font-weight: normal;
     font-family: 'Trebuchet', 'Helvetica', 'Arial', 'Sans-Serif';
-    line-height: 1.2em;
     color: #C08261;
 }
 footer {
