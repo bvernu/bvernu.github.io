@@ -99,6 +99,45 @@ p {
     font-family: 'Gerogia', 'Helvetica', 'Arial', 'Sans-Serif';
     color: #C08261;
 }
+
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  font-size: 30px;
+  text-align: center;
+}
+
+.flex-container-reverse {
+  display: flex;
+  flex-wrap: wrap;
+  font-size: 30px;
+  text-align: center;
+}
+
+.big-container-left {
+  flex: 70%;
+  padding: 10px;
+  text-align: left;
+}
+
+.small-container-right {
+  flex: 30%;
+  padding: 10px;
+  text-align: right;
+}
+
+.big-container-right {
+  flex: 70%;
+  padding: 10px;
+  text-align: left;
+}
+
+.small-container-left {
+  flex: 30%;
+  padding: 10px;
+  text-align: left;
+}
+
 footer {
     border-top: 1px solid #F2ECBE;
     font-family: 'Georgia', 'Montserrat', 'Helvetica', 'Arial', 'Sans-Serif';
