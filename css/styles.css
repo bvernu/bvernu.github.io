@@ -138,6 +138,11 @@ p {
   text-align: left;
 }
 
+.title-image {
+  border-radius: 20px;
+  width: 80%;
+}
+
 footer {
     border-top: 1px solid #F2ECBE;
     font-family: 'Georgia', 'Montserrat', 'Helvetica', 'Arial', 'Sans-Serif';
