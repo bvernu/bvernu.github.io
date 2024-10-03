@@ -121,16 +121,10 @@ p {
   font-size: 1em;
 }
 
-.small-container-right-r {
+.small-container-right {
   flex: 20%;
   padding: 5px;
-  text-align: right;
-}
-
-.small-container-right-l {
-  flex: 20%;
-  padding: 0px;
-  text-align: left;
+  text-align: center;
 }
 
 .big-container-right {
@@ -146,9 +140,10 @@ p {
 }
 
 .title-image {
-  border-radius: 10px;
+  border-radius: 15px;
   width: 100%;
   max-width: 300px;
+  height: auto;
 }
 
 footer {
