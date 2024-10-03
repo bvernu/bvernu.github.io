@@ -121,10 +121,16 @@ p {
   font-size: 1em;
 }
 
-.small-container-right {
+.small-container-right-r {
   flex: 20%;
   padding: 10px;
   text-align: right;
+}
+
+.small-container-right-l {
+  flex: 20%;
+  padding: 10px;
+  text-align: left;
 }
 
 .big-container-right {
