@@ -122,7 +122,7 @@ p {
 }
 
 .small-container-right {
-  flex: 30%;
+  flex: 20%;
   padding: 10px;
   text-align: right;
 }
