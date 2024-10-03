@@ -110,6 +110,7 @@ p {
 .flex-container-reverse {
   display: flex;
   flex-wrap: nowrap;
+  align-items: stretch;
   /*font-size: 1em;*/
   text-align: left;
 }
