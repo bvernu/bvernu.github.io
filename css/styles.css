@@ -111,11 +111,11 @@ p {
   display: flex;
   flex-wrap: nowrap;
   /*font-size: 1em;*/
-  text-align: center;
+  text-align: left;
 }
 
 .big-container-left {
-  flex: 70%;
+  flex: 60%;
   padding: 10px;
   text-align: left;
   font-size: 1em;
