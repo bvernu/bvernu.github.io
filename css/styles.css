@@ -129,9 +129,9 @@ p {
 }
 
 .big-container-right {
-  flex: 60%;
+  flex: 40%;
   padding: 10px;
-  text-align: right;
+  text-align: left;
   font-size: 1em;
 }
 
