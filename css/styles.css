@@ -109,8 +109,8 @@ p {
 
 .flex-container-reverse {
   display: flex;
-  flex-wrap: wrap;
-  font-size: 1em;
+  flex-wrap: nowrap;
+  /*font-size: 1em;*/
   text-align: center;
 }
 
@@ -130,7 +130,7 @@ p {
 .big-container-right {
   flex: 70%;
   padding: 10px;
-  text-align: left;
+  text-align: right;
 }
 
 .small-container-left {
